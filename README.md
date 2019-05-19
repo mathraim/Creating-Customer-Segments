@@ -23,7 +23,7 @@ Template code is provided in the `customer_segments.ipynb` notebook file. You wi
 In a terminal or command window, navigate to the top-level project directory `customer_segments/` (that contains this README) and run one of the following commands:
 
 ```bash
-ipython notebook customer_segments.ipynbWhile
+ipython notebook customer_segments.ipynb
 ```  
 or
 ```bash
