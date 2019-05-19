@@ -16,7 +16,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 ### Code
 
-Template code is provided in the `customer_segments.ipynb` notebook file. You will also be required to use the included `visuals.py` Python file and the `customers.csv` dataset file to complete your work.
+Template code is provided in the `customer_segments.ipynb` notebook file. You will also be required to use the included `visuals.py` Python file and the `customers.csv` dataset file to run the notebook
 
 ### Run
 
